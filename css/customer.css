@@ -1,0 +1,146 @@
+.logo
+{
+width:100px;
+height:100px;
+float:left;
+}
+
+
+.logoimage
+{
+width:100px;
+height:100px;
+}
+
+
+
+.message
+{
+background-color:yellow;
+width:1450px;
+height:100px;
+color:#AB8421;
+font-size:33px;
+font-style:italic;
+position:inherit;
+text-align:center;
+}
+
+.errMsg
+{
+background-color:pink;
+width:800px;
+height:50px;
+color:red;
+font-size:20px;
+font-style:italic;
+text-align:center;
+		
+}
+
+body
+{
+background-color:#F781F3;
+}
+welcomepage
+{
+width:5450px;
+height:200px;
+}
+
+
+label
+{
+background-color:pink;
+color:#0B3B0B;
+font-style:bold;
+font-weight:bold;
+font-size:22px;
+}
+.webinfo 
+{
+background-color:green;
+font-size:20px;
+width:1000px;
+height:200px;
+}
+
+.empty
+{
+height:100px;
+background-color:#B8860B
+}
+
+#confirmationMessage
+{
+background-color:#FFFF00;
+color:#000000;
+font-style:italic;
+font-size:20px;
+width:300px;
+height:50px;
+
+}
+.login
+{
+	align:center;
+	background-color: #ffffff;
+	color: #000000;
+	width:700px;
+}
+input[type=submit] {
+	padding:5px 15px; 
+	background:#000000;
+	 border:0 none;
+cursor:pointer;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+color:#ffffff;
+font-family: serif;
+font-weight: bold;
+}
+
+.errMessage
+{
+background-color:#FFFF00;
+color:#000000;
+font-style:italic;
+font-size:20px;
+width:300px;
+height:50px;
+}
+
+.register
+{
+align:center;
+color: blue;
+width:400px;
+background-color:aqua;
+font-style:bold;
+font-weight:bold;
+font-size:22px;
+}
+
+.circleBase {
+    border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+}
+
+.type1 {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border: 3px solid red;
+}
+.type2 {
+    width: 50px;
+    height: 50px;
+    background: #ccc;
+    border: 3px solid #000;
+}
+.type3 {
+    width: 500px;
+    height: 500px;
+    background: aqua;
+    border: 30px solid blue;
+}
